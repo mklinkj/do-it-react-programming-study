@@ -3,7 +3,7 @@
 * 저자: 박호준
 * 도서 판매처
   * yes24
-    * 
+    * http://www.yes24.com/Product/Goods/87631428
   * 교보문고
     * https://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791163031451
 
