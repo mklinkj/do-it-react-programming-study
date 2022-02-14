@@ -50,6 +50,7 @@
 
   * 책에선 예제를 실행하기 위한 용도로 사용하여 NodeJS의 버전은 리액트 학습과 큰 관련이 없다고 한다.
     * 2022년 2월 현시점 기준으로는 버전이 좀 낮긴함.
+    * `14.19.0 으로 바꿔봤을 때, 1장 예제 동작에 문제는 없었다.`
 
 
 
@@ -132,5 +133,4 @@ Module not found: Can't resolve 'web-vitals' in 'F:\git\do-it-react-programming-
 
 
 ## 정오표
-
 

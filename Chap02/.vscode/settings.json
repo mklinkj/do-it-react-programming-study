@@ -1,0 +1,9 @@
+{
+  // 이 설정은 git에 포함해도 될 것 같다.
+
+  // code-runner의 이전 실행 출력 결과를 지우고 새로 실행한다.
+  "code-runner.clearPreviousOutput": true,
+
+  // 기본 포멧터 설정
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
